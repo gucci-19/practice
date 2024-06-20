@@ -225,23 +225,30 @@ const nameArr = ["田中", "山田", "じゃけぇ"];
 //   console.log("valはfalsyです");
 // }
 
-const flag1 = true;
-const flag2 = false;
+// const flag1 = true;
+// const flag2 = false;
 
-if (flag1 || flag2){
-  console.log("1か2はtrueになります");
-}
-if (flag1 && flag2) {
-  console.log("1も2もtrueになります");
-}
+// if (flag1 || flag2){
+//   console.log("1か2はtrueになります");
+// }
+// if (flag1 && flag2) {
+//   console.log("1も2もtrueになります");
+// }
 
-const num = 100;
-const fee = num || "金額未設定です";
-console.log(fee);
+// const num = 100;
+// const fee = num || "金額未設定です";
+// console.log(fee);
 
-const num2 = null;
-const fee2 = num2 && "何か設定されました";
-console.log(fee2);
+// const num2 = null;
+// const fee2 = num2 && "何か設定されました";
+// console.log(fee2);
+
+
+
+
+セクション５
+
+
 
 
 
